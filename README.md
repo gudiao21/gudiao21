@@ -14,11 +14,5 @@ src="https://github.com/marcodotcastro/marcodotcastro/blob/master/telegram.png?r
     <a href="https://www.instagram.com/lucianodantas53/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/facebook.png?raw=true" alt="Luciano Dantas" height="30" width="40" /></a>    
 </p>
 
----
-```ruby 
-	end 
-end 
-```
-
 
 
